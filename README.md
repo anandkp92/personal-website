@@ -6,22 +6,13 @@ A clean and professional research website for showcasing publications and bio.
 
 ### 1. Add Your Profile Photo
 
-**Important:** You need to add your profile photo to the website:
+**Required:** Download and add your profile photo:
 
-1. Download your profile photo from LinkedIn (or use any professional photo)
-2. Rename it to `profile.jpg`
+1. Download your photo from https://eta.lbl.gov/person-image/214350 (right-click and "Save image as...")
+2. Save it as `profile.jpg`
 3. Upload it to the root directory of your repository (same location as `index.html`)
-4. The photo should be square and at least 300x300 pixels for best quality
-5. Supported formats: JPG, JPEG, PNG (if using PNG, update the `src` in `index.html` to `profile.png`)
 
-**Alternative:** If you want to use your photo directly from a URL, edit `index.html` and change:
-```html
-<img src="profile.jpg" alt="Anand K Prakash" class="profile-photo">
-```
-to:
-```html
-<img src="YOUR_PHOTO_URL" alt="Anand K Prakash" class="profile-photo">
-```
+**Note:** The website is configured to use `profile.jpg`. Make sure the file is named exactly that (case-sensitive).
 
 ### 2. Content Already Configured
 
