@@ -1,0 +1,532 @@
+@inproceedings{nasir2015fusing,
+  title={Fusing sensors for occupancy sensing in smart buildings},
+  author={Nasir, Nabeel and Palani, Kartik and Chugh, Amandeep and Prakash, Vivek Chil and Arote, Uddhav and Krishnan, Anand P and Ramamritham, Krithi},
+  booktitle={International Conference on Distributed Computing and Internet Technology},
+  pages={73--92},
+  year={2015},
+  organization={Springer International Publishing Cham}
+}
+
+@inproceedings{chil2015demo,
+  title={Demo abstract: Demonstration of using sensor fusion for constructing a cost-effective smart-door},
+  author={Chil Prakash, Vivek and Prakash, Anand Krishnan and Arote, Uddhav and Munigala, Vitobha and Ramamritham, Krithi},
+  booktitle={Proceedings of the 2015 ACM Sixth International Conference on Future Energy Systems},
+  pages={191--192},
+  year={2015}
+}
+
+@inproceedings{prakash2015locating,
+  title={Locating and sizing smart meter deployment in buildings},
+  author={Prakash, Anand Krishnan and Chil Prakash, Vivek and Doshi, Bhavin and Arote, Uddhav and Sahu, Pallab Kumar and Ramamritham, Krithi},
+  booktitle={Proceedings of the 2015 ACM Sixth International Conference on Future Energy Systems},
+  pages={223--224},
+  year={2015}
+}
+
+@article{prakash2018robust,
+  title={Robust building energy load forecasting using physically-based kernel models},
+  author={Prakash, Anand Krishnan and Xu, Susu and Rajagopal, Ram and Noh, Hae Young},
+  journal={Energies},
+  volume={11},
+  number={4},
+  pages={862},
+  year={2018},
+  publisher={MDPI}
+}
+
+@inproceedings{munir2017fork,
+  title={FORK: Fine grained Occupancy estimatoR using Kinect on ARM embedded platforms},
+  author={Munir, Sirajum and Tran, Le and Francis, Jonathan and Shelton, Charles and Arora, Ripudaman Singh and Hesling, Craig and Quintana, Matias and Prakash, Anand Krishnan and Rowe, Anthony and Berges, Mario},
+  booktitle={Proceedings of the 4th ACM International Conference on Systems for Energy-Efficient Built Environments},
+  pages={1--2},
+  year={2017}
+}
+
+@inproceedings{stamoulis2018designing,
+  title={Designing adaptive neural networks for energy-constrained image classification},
+  author={Stamoulis, Dimitrios and Chin, Ting-Wu and Prakash, Anand Krishnan and Fang, Haocheng and Sajja, Sribhuvan and Bognar, Mitchell and Marculescu, Diana},
+  booktitle={Proceedings of the international conference on computer-aided design},
+  pages={1--8},
+  year={2018}
+}
+
+@inproceedings{flores2019dataset,
+  title={Dataset: Occupancy detection, tracking, and estimation using a vertically mounted depth sensor},
+  author={Flores, Fabricio and Munir, Sirajum and Quintana, Matias and Prakash, Anand Krishnan and Berg{\'e}s, Mario},
+  booktitle={Proceedings of the 2nd Workshop on Data Acquisition To Analysis},
+  pages={7--9},
+  year={2019}
+}
+
+@techreport{pritoni2019guideline36_conformance_test,
+  title={guideline36\_conformance\_test 0.1},
+  author={Pritoni, Marco and Prakash, Anand Krishnan},
+  year={2019},
+  institution={Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United States)}
+}
+
+@inproceedings{piette2019evaluation,
+  title={Evaluation of the Need for and Design of a City Energy Operations System},
+  author={Piette, Mary Ann and Singh, Reshma and Prakash, Anand Krishnan},
+  booktitle={Urbsys'19: 1st ACM International Workshop on Urban Building Energy Sensing, Controls, Big Data Analysis, and Visualization},
+  pages={97--100},
+  year={2019}
+}
+
+@article{fierro2019mortar,
+  title={Mortar: an open testbed for portable building analytics},
+  author={Fierro, Gabe and Pritoni, Marco and AbdelBaky, Moustafa and Lengyel, Daniel and Leyden, John and Prakash, Anand and Gupta, Pranav and Raftery, Paul and Peffer, Therese and Thomson, Greg and others},
+  journal={ACM Transactions on Sensor Networks (TOSN)},
+  volume={16},
+  number={1},
+  pages={1--31},
+  year={2019},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{brown2020developing,
+  title={Developing flexible, networked lighting control systems that reliably save energy in california buildings},
+  author={Brown, Richard and Schwartz, Peter and Nordman, Bruce and Shackelford, Jordan and Khandekar, Aditya and Jackson, Neal and Prakash, Anand and Ghosh, Srijit and Page, Erik},
+  year={2020}
+}
+
+@article{krishnan2020solar+,
+  title={Solar+ optimizer: A model predictive control optimization platform for grid responsive building microgrids},
+  author={Krishnan Prakash, Anand and Zhang, Kun and Gupta, Pranav and Blum, David and Marshall, Marc and Fierro, Gabe and Alstone, Peter and Zoellick, James and Brown, Richard and Pritoni, Marco},
+  journal={Energies},
+  volume={13},
+  number={12},
+  pages={3093},
+  year={2020},
+  publisher={MDPI}
+}
+
+@techreport{prakash2020counting,
+  title={Counting Occupants Using Network Technology (COUNT) v0. 1},
+  author={Prakash, Anand Krishnan and Pritoni, Marco},
+  year={2020},
+  institution={Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United States)}
+}
+
+@article{singh2020community,
+  title={A Community Energy Operations and Planning System: Concept, Use cases, Metrics, and Benefits},
+  author={Singh, Reshma and Chen, Grant and others},
+  year={2020}
+}
+
+@inproceedings{fierro2020interactive,
+  title={Interactive metadata integration with brick},
+  author={Fierro, Gabe and Prakash, Anand Krishnan and Mosiman, Cory and Pritoni, Marco and Raftery, Paul and Wetter, Michael and Culler, David E},
+  booktitle={Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation},
+  pages={344--345},
+  year={2020}
+}
+
+@inproceedings{prakash2020deep,
+  title={Deep reinforcement learning in buildings: Implicit assumptions and their impact},
+  author={Prakash, Anand Krishnan and Touzani, Samir and Kiran, Mariam and Agarwal, Shreya and Pritoni, Marco and Granderson, Jessica},
+  booktitle={Proceedings of the 1st International Workshop on Reinforcement Learning for Energy Management in Buildings \& Cities},
+  pages={48--51},
+  year={2020}
+}
+
+@inproceedings{fierro2020shepherding,
+  title={Shepherding metadata through the building lifecycle},
+  author={Fierro, Gabe and Prakash, Anand Krishnan and Mosiman, Cory and Pritoni, Marco and Raftery, Paul and Wetter, Michael and Culler, David E},
+  booktitle={Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation},
+  pages={70--79},
+  year={2020}
+}
+
+@article{fierro2020demo,
+  title={Demo Abstract: Interactive Metadata Integration with Brick},
+  author={Fierro, Gabe and Prakash, Anand Krishnan and Mosiman, Cory and Pritoni, Marco and Raftery, Paul and Wetter, Michael and Culler, David E},
+  year={2020}
+}
+
+@article{wetter2022openbuildingcontrol,
+  title={OpenBuildingControl: Digitizing the control delivery from building energy modeling to specification, implementation and formal verification},
+  author={Wetter, Michael and Ehrlich, Paul and Gautier, Antoine and Grahovac, Milica and Haves, Philip and Hu, Jianjun and Prakash, Anand and Robin, Dave and Zhang, Kun},
+  journal={Energy},
+  volume={238},
+  pages={121501},
+  year={2022},
+  publisher={Pergamon}
+}
+
+@article{touzani2021controlling,
+  title={Controlling distributed energy resources via deep reinforcement learning for load flexibility and energy efficiency},
+  author={Touzani, Samir and Prakash, Anand Krishnan and Wang, Zhe and Agarwal, Shreya and Pritoni, Marco and Kiran, Mariam and Brown, Richard and Granderson, Jessica},
+  journal={Applied Energy},
+  volume={304},
+  pages={117733},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{wettermodelica,
+  title={Modelica-json: Transforming energy models to digitize the control delivery process Michael Wetter1, Jianjun Hu1, Anand Prakash1, Paul Ehrlich2, Gabe Fierro3, Milica Grahovac1, Marco Pritoni1, Lisa Rivalin4, Dave Robin5 1Lawrence Berkeley National Laboratory, Berkeley, CA},
+  author={Wetter, Michael and Hu, Jianjun and Prakash, Anand and Ehrlich, Paul and Fierro, Gabe and Grahovac, Milica and Pritoni, Marco and Rivalin, Lisa and Robin, Dave}
+}
+
+@inproceedings{bennani2021query,
+  title={Query relaxation for portable brick-based applications},
+  author={Bennani, Imane Lahmam and Prakash, Anand Krishnan and Zafiris, Marina and Paul, Lazlo and Roa, Carlos Duarte and Raftery, Paul and Pritoni, Marco and Fierro, Gabe},
+  booktitle={Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation},
+  pages={150--159},
+  year={2021}
+}
+
+@techreport{touzani2021flexdrl,
+  title={FlexDRL v1. 0},
+  author={Touzani, Samir and Granderson, Jessica and Pritoni, Marco and Kiran, Mariam and Krishnan Prakash, Anand and Wang, Zhe and Agarwal, Shreya},
+  year={2021},
+  institution={Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United States)}
+}
+
+@techreport{pritoni2020harvesting,
+  title={Harvesting the low-hanging fruit of high energy savings--Virtual Occupancy using Wi-Fi Data},
+  author={Pritoni, Marco and Clark, Callie and Prakash, Anand and Kloss, Margarita and Gupta, Pranav and Nordman, Bruce and Piette, Mary Ann},
+  year={2020},
+  institution={Lawrence Berkeley National Lab.(LBNL), Berkeley, CA (United States)}
+}
+
+@article{wetter2021modelica,
+  title={Modelica-json: Transforming energy models to digitize the control delivery process},
+  author={Wetter, Michael and Hu, Jianjun and Prakash, Anand and Ehrlich, Paul and Fierro, Gabe and Grahovac, Milica and Pritoni, Marco and Rivalin, Lisa and Robin, Dave},
+  year={2021}
+}
+
+@article{zhang2022model,
+  title={Model predictive control for demand flexibility: Real-world operation of a commercial building with photovoltaic and battery systems},
+  author={Zhang, Kun and Prakash, Anand and Paul, Lazlo and Blum, David and Alstone, Peter and Zoellick, James and Brown, Richard and Pritoni, Marco},
+  journal={Advances in Applied Energy},
+  volume={7},
+  pages={100099},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{helmns2022heat,
+  title={Heat Pumps with Phase Change Thermal Storage: Flexible, Efficient, and Electrification Friendly},
+  author={Helmns, Dre and Casillas, Armando and Prakash, Anand and Blum, David and Pritoni, Marco and Dutton, Spencer and Woolley, Jonathan and Chakraborty, Subhrajit},
+  year={2022}
+}
+
+@article{prakash2022cloud,
+  title={Cloud-Control of Legacy Building Automation System: A case study},
+  author={Prakash, Anand Krishnan and Pritoni, Marco and Kloss, Margarita and Piette, Mary Ann and Kamel, Michel and Hage, Dotty},
+  year={2022}
+}
+
+@article{nordman2022communication,
+  title={Communication Requirements for Price-Based Grid Coordination},
+  author={Nordman, Bruce and Pritoni, Marco and Piette, Mary Ann and Prakash, Anand Krishnan},
+  year={2022}
+}
+
+@article{paul2022solarplus,
+  title={SolarPlus Optimizer: Integrated Control of Solar, Batteries, and Flexible Loads for Small Commercial Buildings},
+  author={Paul, Lazlo and Prakash, Anand Krishnan and Zhang, Kun and Pritoni, Marco and Brown, Rich},
+  year={2022}
+}
+
+@techreport{roa2022towards,
+  title={Towards a stronger foundation: Digitizing commercial buildings with brick to enable portable advanced applications},
+  author={Roa, Carlos Duarte and Raftery, Paul and Sun, Ruiji and Paul, Lazlo and Prakash, Anand Krishnan and Pritoni, Marco and Fierro, Gabe and Peffer, Therese},
+  year={2022},
+  institution={Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United States)}
+}
+
+@inproceedings{fernandes2022thermal,
+  title={Thermal anomaly and rooftop unit (RTU) detection in buildings through machine learning},
+  author={Fernandes, Samuel and Najibi, Rohullah and Prakash, Anand and Singh, Reshma and Zafiris, Marina and others},
+  booktitle={Proc. of SPIE Vol},
+  volume={12269},
+  pages={1226909--1},
+  year={2022}
+}
+
+@inproceedings{fierro2022notes,
+  title={Notes paper: enabling building application development with simulated digital twins},
+  author={Fierro, Gabe and Prakash, Anand K and Blum, David and Bender, Joel and Paulson, Erik and Wetter, Michael},
+  booktitle={Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation},
+  pages={250--253},
+  year={2022}
+}
+
+@article{singh2022scaling,
+  title={Scaling Building Energy Audits through Machine Learning Methods on Novel Drone Image Data},
+  author={Singh, Reshma and Fernandes, Samuel and Prakash, Anand Krishnan and Mathew, Paul and Granderson, Jessica and Snaith, Colman and Pusapati, Rahul and Jadhav, Prakash and Zakhor, Avideh and Upadhyay, Rishi and others},
+  year={2022}
+}
+
+@article{helmns4376436heat,
+  title={Heat Pumps with Phase Change Material Thermal Energy Storage for Space and Water Heating: A Design and Simulation Study},
+  author={Helmns, Dre and Casillas, Armando and Woolley, Jonathan and Prakash, Anand K and Blum, David H and Grant, Peter and Chakraborty, Subhrajit and Dutton, Spencer M and Pritoni, Marco},
+  journal={Available at SSRN 4376436}
+}
+
+@article{sartori2023sub,
+  title={Sub-hourly measurement datasets from 6 real buildings: Energy use and indoor climate},
+  author={Sartori, Igor and Walnum, Harald Taxt and Skeie, Kristian S and Georges, Laurent and Knudsen, Michael D and Bacher, Peder and Candanedo, Jos{\'e} and Sigounis, Anna-Maria and Prakash, Anand Krishnan and Pritoni, Marco and others},
+  journal={Data in Brief},
+  volume={48},
+  pages={109149},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@article{peffer2023skewering,
+  title={Skewering the silos: using Brick to enable portable analytics, modeling and controls in buildings},
+  author={Peffer, Therese and Fierro, Gabe and Raftery, Paul and Duarte Roa, Carlos and Pritoni, Marco and Wetter, Michael and Prakash, Anand and Paul, Lazlo and Paulson, Erik},
+  year={2023}
+}
+
+@inproceedings{paul2022solar+,
+  title={Solar+ optimizer: Integrated control of solar, batteries, and flexible loads for small commercial buildings},
+  author={Paul, L and Prakash, A and Zhang, K and Pritoni, M and Brown, R},
+  year={2022},
+  organization={ACEEE}
+}
+
+@article{duarte2023field,
+  title={Field demonstration of the brick ontology to scale up the deployment of ashrae guideline 36 control sequences},
+  author={Duarte Roa, Carlos and Raftery, Paul and Prakash, Anand and Peffer, Therese},
+  year={2023}
+}
+
+@techreport{paul2023demand,
+  title={Demand Flexibility Controls Library using Semantics (DFLEXLIBS) v0. 1},
+  author={Paul, Lazlo and Huang, Weiping and Pritoni, Marco and Casillas, Armando and Prakash, Anand and de Andrade Pereira, Flavia},
+  year={2023},
+  institution={Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United States~…}
+}
+
+@techreport{prakash2022electricity,
+  title={Electricity Bill Calculator (elecprice) v0. 1.0},
+  author={Prakash, Anand Krishnan and Van Cutsem, Olivier and Patel, Serena and Indera, Adya},
+  year={2022},
+  institution={Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United States)}
+}
+
+@article{de2024enabling,
+  title={Enabling portable demand flexibility control applications in virtual and real buildings},
+  author={de Andrade Pereira, Flavia and Paul, Lazlo and Pritoni, Marco and Casillas, Armando and Prakash, Anand and Huang, Weiping and Shaw, Conor and Martin-Toral, Susana and Finn, Donal and O’Donnell, James},
+  journal={Journal of Building Engineering},
+  volume={86},
+  pages={108645},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@article{prakash2020deep,
+  title={Deep Reinforcement Learning in Buildings},
+  author={Prakash, Anand Krishnan and Touzani, Samir and Kiran, Mariam and Agarwal, Shreya and Pritoni, Marco and Granderson, Jessica},
+  year={2020}
+}
+
+@article{de2025semantics,
+  title={A semantics-driven framework to enable demand flexibility control applications in real buildings},
+  author={de Andrade Pereira, Flavia and Katsigarakis, Kyriakos and Rovas, Dimitrios and Pritoni, Marco and Shaw, Conor and Paul, Lazlo and Prakash, Anand and Martin-Toral, Susana and Finn, Donal and O’Donnell, James},
+  journal={Advanced Engineering Informatics},
+  volume={64},
+  pages={103049},
+  year={2025},
+  publisher={Elsevier}
+}
+
+@article{singh2022scaling,
+  title={Scaling Building Energy Audits through Machine Learning Methods on Novel Drone Image},
+  author={Singh, Reshma and Fernandes, Samuel and Prakash, Anand Krishnan},
+  year={2022}
+}
+
+@article{chen2023control,
+  title={Control Performance Verification--The Hidden Opportunity of Ensuring High Performance of Building Control System},
+  author={Chen, Yan and Wetter, Michael and Lei, Xuechen and Lerond, Jeremy and Prakash, Anand K and Jung, Yun Joon and Ehrlich, Paul and Vrabie, Draguna},
+  year={2023}
+}
+
+@techreport{prakash2022solarplus,
+  title={SolarPlus-Optimizer v0. 1},
+  author={Prakash, Anand Krishnan and Brown, Richard E and Blum, David and Zhang, Kun and Paul, Lazlo},
+  year={2022},
+  institution={Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United States~…}
+}
+
+@techreport{prakash2022california,
+  title={California Load Flexibility Research and Development Hub (CalFlexhub) v0. 1},
+  author={Prakash, Anand Krishnan and Gerber, Daniel and Paul, Lazlo},
+  year={2022},
+  institution={Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United States)}
+}
+
+@article{huang2024analyzing,
+  title={Analyzing The Impact Of Energy Efficient ASHRAE Guideline 36 Control Sequences On Demand Flexibility Potential Of Commercial Buildings: A Multi-Region Analysis},
+  author={Huang, Weiping and Casillas, Armando and Pritoni, Marco and Agarwal, Shreya and Yin, Rongxin and Prakash, Anand and Helmns, Dre and Piette, Mary Ann},
+  year={2024}
+}
+
+@article{casillas2024demystifying,
+  title={Demystifying Thermal Energy Storage Integrated Heat Pump Systems: Development of Generalized Sizing and Control Algorithms for Demand Flexibility},
+  author={Casillas, Armando and Defauw, Thomas and Helmns, Dre and Prakash, Anand and Huang, Weiping and Grant, Peter and Pritoni, Marco and others},
+  year={2024}
+}
+
+@article{casillas2024practical,
+  title={Practical challenges of model predictive control (MPC) for grid interactive small and medium commercial buildings},
+  author={Casillas, Armando and Prakash, Anand and Kim, Donghun and Brown, Richard and Pritoni, Marco and Grant, Peter and others},
+  year={2024}
+}
+
+@article{pritoni2024digital,
+  title={Digital and Interoperable: The future of building automation is on the horizon. What's in it for me?},
+  author={Pritoni, Marco and Wetter, Michael and Paul, Lazlo and Prakash, Anand and Huang, Weiping and Bushby, Steven and Delgoshaei, Parastoo and Poplawski, Michael and Saha, Avijit and Fierro, Gabe and others},
+  year={2024}
+}
+
+@incollection{woo2024practical,
+  title={Practical challenges of model predictive control (MPC) for grid interactive small and medium commercial buildings},
+  author={woo Ham, Sang and Paul, Lazlo and Casillas, Armando and Prakash, Anand and Kim, Donghun and Brown, Richard and Pritoni, Marco and Grant, Peter},
+  booktitle={Proceedings of the 2024 Summer Study on Energy Efficiency in Buildings},
+  pages={1--15},
+  year={2024},
+  publisher={ACEEE}
+}
+
+@techreport{nordman2024transforming,
+  title={Transforming Demand Response Using Open ADR 3.0},
+  author={Nordman, Bruce and Parker, Lauren and Krishnan Prakash, A and Piette, Mary Ann},
+  year={2024},
+  institution={Technical Report}
+}
+
+@article{gerber2024price,
+  title={Price-based Communications for Load Shedding in Overloaded Panels},
+  author={Gerber, Daniel L and Prakash, Anand and Chundu, Kenny and Shackelford, Jordan and Berkeley, Lawrence},
+  year={2024}
+}
+
+@article{leong2025dfat,
+  title={DFAT: A web-based toolkit for estimating demand flexibility in building-to-grid integration},
+  author={Leong, Michael and Mahanta, Medha and Yin, Clara and Garcia, Timothy Jairus and Tan, Zach and Prakash, Anand Krishnan and Black, Doug and Yin, Rongxin},
+  journal={SoftwareX},
+  volume={30},
+  pages={102131},
+  year={2025},
+  publisher={Elsevier}
+}
+
+@inproceedings{mulayim2024large,
+  title={Large language models for the creation and use of semantic ontologies in buildings: Requirements and challenges},
+  author={Mulayim, Ozan Baris and Paul, Lazlo and Pritoni, Marco and Prakash, Anand Krishnan and Sudarshan, Malavikha and Fierro, Gabe},
+  booktitle={Proceedings of the 11th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation},
+  pages={312--317},
+  year={2024}
+}
+
+@inproceedings{prakash2024ontologies,
+  title={Ontologies at Work: Analyzing Information Requirements for Model Predictive Control in Buildings},
+  author={Prakash, Anand Krishnan and De Andrade Pereira, Flavia and Berg{\'e}s, Mario and Pritoni, Marco and Akinci, Burcu},
+  booktitle={Proceedings of the 11th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation},
+  pages={214--218},
+  year={2024}
+}
+
+@article{pritoni2024digital,
+  title={Digital and Interoperable: The future of building automation is on the horizon},
+  author={Pritoni, Marco and Wetter, Michael and Paul, Lazlo and Prakash, Anand and Huang, Weiping and Bushby, Steven and Delgoshaei, Parastoo and Poplawski, Michael and Saha, Avijit and Fierro, Gabe and others},
+  journal={What’s in it for me},
+  year={2024}
+}
+
+@article{paul2025open,
+  title={Open building operating system: a grid-responsive semantics-driven control platform for buildings},
+  author={Paul, Lazlo and De Andrade Pereira, Flavia and Prakash, Anand Krishnan and Ham, Sang Woo and Feng, Jingjuan Dove and Brown, Rich and Pritoni, Marco},
+  journal={Science and Technology for the Built Environment},
+  volume={31},
+  number={3},
+  pages={294--311},
+  year={2025},
+  publisher={Taylor \& Francis}
+}
+
+@article{alstone2020resilient,
+  title={Resilient buildings for fire-adapted landscapes: EE and flexible loads integrated with solar and storage microgrids},
+  author={Alstone, Peter and Brown, Richard and Zoellick, Jim and Pritoni, Marco and Blum, David and Radecsky, Kristen and Zhang, Kun and Prakash, Anand and Perez, Pol},
+  year={2020}
+}
+
+@article{nordman2024energy,
+  title={Energy Reporting: Device Demonstration, Communication Protocols, and Codes and Standards},
+  author={Nordman, Bruce and Kundu, Bijit and Prakash, Anand and Levine, Rachel and Pritoni, Marco and Shackleford, Jordan and Athalye, Rahul and Khandekar, Aditya and Clark, Callie and Aviles, Rebecca and others},
+  year={2024}
+}
+
+@article{pritoni2020advanced,
+  title={Advanced control sequences and FDD technology. Just shiny objects, or ready for scale?},
+  author={Pritoni, Marco and Prakash, Anand and Blum, David and Zhang, Kun and Tang, Rui and Granderson, Jessica and Cheng, Hwakong and Paliaga, Gwelen},
+  year={2020}
+}
+
+@article{clark2020harvesting,
+  title={Harvesting the low-hanging fruit of high energy savings--Virtual Occupancy using Wi-Fi Data},
+  author={Clark, Callie and Prakash, Anand and Pritoni, Marco and Kloss, Margarita and Gupta, Pranav and Nordman, Bruce and Piette, Mary Ann and Kamel, Michael and Semaan, Tony S and Eisele, Ann and others},
+  year={2020}
+}
+
+@article{helmns2021towards,
+  title={Towards a Techno-Economic Analysis of PCM Integrated Hybrid HVAC Systems},
+  author={Helmns, Dre and Blum, David and Casillas, Armando and Prakash, Anand Krishnan and Woolley, Jonathan and Vernon, David and Mande, Caton and Woodcox, Michael and Dutton, Spencer},
+  year={2021}
+}
+
+@article{prakash2020solar+,
+  title={Solar+ Optimizer: A Model Predictive Control Optimization Platform for Grid Responsive},
+  author={Prakash, Anand Krishnan and Zhang, Kun and Gupta, Pranav},
+  journal={Energies, 13 (12)},
+  year={2020}
+}
+
+@article{grant2024openfacadecontrol,
+  title={OpenFacadeControl: enabling integration of automated facades with other building systems},
+  author={Grant, Peter and Su, Tzu-Ching and Fernandes, Luis and Shackelford, Jordan and Prakash, Anand and Czarneki, Stephen and Yu, Pei-Yu and Lin, Feng-Yi},
+  year={2024}
+}
+
+@article{mulayim2025extraction,
+  title={Extraction and Analysis of Time Series Data from Building Automation Systems Using Large Language Models},
+  author={Mulayim, Ozan Baris and Prakash, Anand Krishnan and Paul, Lazlo and Pritoni, Marco},
+  year={2025}
+}
+
+@techreport{paul2025boptest,
+  title={BOPTest As a Platform for Building Controls and Grid-Interactive Buildings Workforce Training},
+  author={Paul, Lazlo and Zanetti, Ettore and Liu, Jingjing and Casillas, Armando and Prakash, Anand Krishnan and Blum, David and Nirenberg, Robert and Pritoni, Marco},
+  year={2025},
+  institution={Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United States)}
+}
+
+@techreport{paul2025hp,
+  title={HP-FLEX: Field demonstration of the semantics-driven configuration of a Model Predictive Control system to make heat pumps flexible},
+  author={Paul, Lazlo and Prakash, Anand Krishnan and Casillas, Armando and Yang, Tao and Pritoni, Marco and others},
+  year={2025},
+  institution={Lawrence Berkeley National Laboratory (LBNL), Berkeley, CA (United States)}
+}
+
+@inproceedings{walther2025cdl,
+  title={CDL-PLC translator: From Modelica HVAC control design to IEC 61131 PLC implementation},
+  author={Walther, Karl and Wetter, Michael and Prakash, Anand and Hu, Jianjun},
+  booktitle={Modelica Conferences},
+  pages={515--524},
+  year={2025}
+}
+
+@inproceedings{wetter2025modelica,
+  title={Modelica Meets ASHRAE: Towards A Digital Standard for Building Control},
+  author={Wetter, Michael and Chen, Yan and Devaprasad, Karthik and Ehrlich, Paul and Gautier, Antoine and Hu, Jianjun and Prakash, Anand and Pritoni, Marco},
+  booktitle={Modelica Conferences},
+  pages={505--513},
+  year={2025}
+}
