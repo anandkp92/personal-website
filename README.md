@@ -4,44 +4,36 @@ A clean and professional research website for showcasing publications and bio.
 
 ## Quick Start
 
-### 1. Customize Your Content
+### 1. Add Your Profile Photo
 
-#### Update Your Bio and Contact Info
-Edit `index.html`:
-- Find the `<!-- TODO: Add your bio here -->` comment and replace with your bio
-- Update your email address in the Contact section
+**Important:** You need to add your profile photo to the website:
 
-#### Add Your Publications
-Edit `data.js`:
-1. Replace the example publication with your actual papers
-2. For each paper, provide:
-   - title
-   - authors
-   - venue (conference/journal name)
-   - year
-   - citations (optional)
-   - links (Paper PDF, arXiv, Code, Slides, etc.)
+1. Download your profile photo from LinkedIn (or use any professional photo)
+2. Rename it to `profile.jpg`
+3. Upload it to the root directory of your repository (same location as `index.html`)
+4. The photo should be square and at least 300x300 pixels for best quality
+5. Supported formats: JPG, JPEG, PNG (if using PNG, update the `src` in `index.html` to `profile.png`)
 
-Example:
-```javascript
-const publications = [
-    {
-        title: "Your Paper Title",
-        authors: "Author 1, Author 2, You, Author 3",
-        venue: "Conference/Journal Name 2024",
-        year: "2024",
-        citations: "10",
-        links: [
-            { label: "Paper", url: "https://link-to-paper.pdf" },
-            { label: "arXiv", url: "https://arxiv.org/abs/xxxx.xxxxx" },
-            { label: "Code", url: "https://github.com/your-repo" }
-        ]
-    },
-    // Add more papers...
-];
+**Alternative:** If you want to use your photo directly from a URL, edit `index.html` and change:
+```html
+<img src="profile.jpg" alt="Anand K Prakash" class="profile-photo">
+```
+to:
+```html
+<img src="YOUR_PHOTO_URL" alt="Anand K Prakash" class="profile-photo">
 ```
 
-### 2. Deploy to GitHub Pages
+### 2. Content Already Configured
+
+Your website already includes:
+- Professional bio describing your role at LBNL and academic background
+- Contact information (LBNL and CMU email addresses)
+- 70 publications from your Google Scholar profile
+- Links to Google Scholar and LinkedIn
+
+All content is ready to go once you add your profile photo!
+
+### 3. Deploy to GitHub Pages
 
 1. Go to your GitHub repository settings
 2. Navigate to "Pages" in the left sidebar
@@ -49,7 +41,7 @@ const publications = [
 4. Click "Save"
 5. Your site will be published at `https://[your-username].github.io/personal-website/`
 
-### 3. Connect Your GoDaddy Domain (anandkprakash.com)
+### 4. Connect Your GoDaddy Domain (anandkprakash.com)
 
 #### Step 1: Configure GitHub Pages
 
