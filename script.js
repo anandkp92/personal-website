@@ -11,29 +11,18 @@ function loadPublications() {
         const pubElement = document.createElement('div');
         pubElement.className = 'publication';
 
-        // Build links HTML
-        let linksHTML = '';
-        if (pub.links && pub.links.length > 0) {
-            linksHTML = '<div class="publication-links">';
-            pub.links.forEach(link => {
-                linksHTML += `<a href="${link.url}" target="_blank" class="publication-link">${link.label}</a>`;
-            });
-            linksHTML += '</div>';
-        }
+        // Get the first link URL (either direct link or Google Scholar)
+        const linkUrl = pub.links && pub.links.length > 0 ? pub.links[0].url : '';
 
         pubElement.innerHTML = `
             <div class="publication-title">
-                ${pub.links && pub.links.length > 0
-                    ? `<a href="${pub.links[0].url}" target="_blank">${pub.title}</a>`
+                ${linkUrl
+                    ? `<a href="${linkUrl}" target="_blank">${pub.title}</a>`
                     : pub.title}
             </div>
-            <div class="publication-authors">${pub.authors}</div>
-            <div class="publication-venue">${pub.venue}</div>
-            <div class="publication-meta">
-                <span class="publication-year">${pub.year}</span>
-                ${pub.citations ? `<span class="publication-citations">Cited by ${pub.citations}</span>` : ''}
+            <div class="publication-info">
+                ${pub.authors}${pub.venue ? ` • ${pub.venue}` : ''} • ${pub.year}
             </div>
-            ${linksHTML}
         `;
 
         publicationsList.appendChild(pubElement);
