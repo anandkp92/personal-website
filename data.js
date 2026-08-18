@@ -1,22 +1,77 @@
 // Your publication data
-// Key Publications
+// Key Publications — hand-curated subset. Full list: https://scholar.google.com/citations?user=LT4UVekAAAAJ
+// Source metadata: citations.csv (Google Scholar export); DOIs resolved via Crossref.
 const publications = [
     {
-        title: "Enabling portable demand flexibility control applications in virtual and real buildings",
-        authors: "F de Andrade Pereira, L Paul, M Pritoni, A Casillas, A Prakash, W Huang, C Shaw, S Martin-Toral, D Finn, J O'Donnell",
-        venue: "Journal of Building Engineering",
-        year: "2024",
+        title: "From the cloud to your basement: Can New Communication Protocols Solve the Interoperability Roadblocks in Residential Demand Flexibility?",
+        authors: "AK Prakash, B Woo-Shem, M Pritoni, L Paul, P Grant, W Huang, J Liu, MA Piette, B Nordman, D Jackson",
+        venue: "",
+        year: "2026",
         links: [
-            { label: "Google Scholar", url: "https://scholar.google.com/scholar?q=Enabling+portable+demand+flexibility+control+applications+in+virtual+and+real+buildings" }
+            { label: "Google Scholar", url: "https://scholar.google.com/scholar?q=From+the+cloud+to+your+basement+Can+New+Communication+Protocols+Solve+the+Interoperability+Roadblocks+in+Residential+Demand+Flexibility" }
         ]
     },
     {
-        title: "Model predictive control for demand flexibility: Real-world operation of a commercial building with photovoltaic and battery systems",
-        authors: "K Zhang, A Prakash, L Paul, D Blum, P Alstone, J Zoellick, R Brown, M Pritoni",
-        venue: "Advances in Applied Energy",
-        year: "2022",
+        title: "Bridging semantics, control specifications and assessment: A library for scalable demand flexibility controls",
+        authors: "F de Andrade Pereira, M Pritoni, A Casillas, J Granderson, L Paul, A Prakash, C Shaw, D Rovas, S Martin-Toral, D Finn",
+        venue: "Control Engineering Practice",
+        year: "2026",
         links: [
-            { label: "Google Scholar", url: "https://scholar.google.com/scholar?q=Model+predictive+control+for+demand+flexibility+Real-world+operation+of+a+commercial+building+with+photovoltaic+and+battery+systems" }
+            { label: "DOI", url: "https://doi.org/10.1016/j.conengprac.2026.106899" }
+        ]
+    },
+    {
+        title: "Digitalizing Building Control Deployment for Retrofits: A Case Study on Demand-Flexible Control Sequences",
+        authors: "M Pritoni, A Prakash, L Paul, W Huang, R Kukharchuk, S Dawson-Haggerty, M Sulzer, M Wetter",
+        venue: "IBPSA-USA Building Simulation Conference",
+        year: "2026",
+        links: [
+            { label: "DOI", url: "https://doi.org/10.26868/30680611.2026.1375" }
+        ]
+    },
+    {
+        title: "BuildingQA: A benchmark for natural language question answering over building knowledge graphs",
+        authors: "OB Mulayim, A Anwar, UM Saka, L Paul, AK Prakash, G Fierro, M Pritoni, M Bergés",
+        venue: "ACM BuildSys",
+        year: "2025",
+        links: [
+            { label: "DOI", url: "https://doi.org/10.1145/3736425.3770097" }
+        ]
+    },
+    {
+        title: "Modelica Meets ASHRAE: Towards A Digital Standard for Building Control",
+        authors: "M Wetter, Y Chen, K Devaprasad, P Ehrlich, A Gautier, J Hu, A Prakash, M Pritoni",
+        venue: "Modelica Conference",
+        year: "2025",
+        links: [
+            { label: "DOI", url: "https://doi.org/10.3384/ecp218505" }
+        ]
+    },
+    {
+        title: "Open building operating system: a grid-responsive semantics-driven control platform for buildings",
+        authors: "L Paul, F de Andrade Pereira, AK Prakash, SW Ham, JD Feng, R Brown, M Pritoni",
+        venue: "Science and Technology for the Built Environment",
+        year: "2025",
+        links: [
+            { label: "DOI", url: "https://doi.org/10.1080/23744731.2024.2444819" }
+        ]
+    },
+    {
+        title: "Ontologies at work: analyzing information requirements for model predictive control in buildings",
+        authors: "AK Prakash, F de Andrade Pereira, M Bergés, M Pritoni, B Akinci",
+        venue: "ACM BuildSys",
+        year: "2024",
+        links: [
+            { label: "DOI", url: "https://doi.org/10.1145/3671127.3698189" }
+        ]
+    },
+    {
+        title: "Transforming Demand Response Using OpenADR 3.0",
+        authors: "B Nordman, L Parker, AK Prakash, MA Piette",
+        venue: "Lawrence Berkeley National Laboratory",
+        year: "2024",
+        links: [
+            { label: "Google Scholar", url: "https://scholar.google.com/scholar?q=Transforming+Demand+Response+Using+Open+ADR+3.0" }
         ]
     },
     {
@@ -25,43 +80,7 @@ const publications = [
         venue: "Energy",
         year: "2022",
         links: [
-            { label: "Google Scholar", url: "https://scholar.google.com/scholar?q=OpenBuildingControl+Digitizing+the+control+delivery+from+building+energy+modeling+to+specification+implementation+and+formal+verification" }
-        ]
-    },
-    {
-        title: "Controlling distributed energy resources via deep reinforcement learning for load flexibility and energy efficiency",
-        authors: "S Touzani, AK Prakash, Z Wang, S Agarwal, M Pritoni, M Kiran, R Brown, J Granderson",
-        venue: "Applied Energy",
-        year: "2021",
-        links: [
-            { label: "Google Scholar", url: "https://scholar.google.com/scholar?q=Controlling+distributed+energy+resources+via+deep+reinforcement+learning+for+load+flexibility+and+energy+efficiency" }
-        ]
-    },
-    {
-        title: "Shepherding metadata through the building lifecycle",
-        authors: "G Fierro, AK Prakash, C Mosiman, M Pritoni, P Raftery, M Wetter, DE Culler",
-        venue: "Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
-        year: "2020",
-        links: [
-            { label: "Google Scholar", url: "https://scholar.google.com/scholar?q=Shepherding+metadata+through+the+building+lifecycle" }
-        ]
-    },
-    {
-        title: "Mortar: an open testbed for portable building analytics",
-        authors: "G Fierro, M Pritoni, M AbdelBaky, D Lengyel, J Leyden, A Prakash, P Gupta, P Raftery, T Peffer, G Thomson, et al.",
-        venue: "ACM Transactions on Sensor Networks (TOSN)",
-        year: "2019",
-        links: [
-            { label: "Google Scholar", url: "https://scholar.google.com/scholar?q=Mortar+an+open+testbed+for+portable+building+analytics" }
-        ]
-    },
-    {
-        title: "Designing adaptive neural networks for energy-constrained image classification",
-        authors: "D Stamoulis, TW Chin, AK Prakash, H Fang, S Sajja, M Bognar, D Marculescu",
-        venue: "Proceedings of the international conference on computer-aided design",
-        year: "2018",
-        links: [
-            { label: "Google Scholar", url: "https://scholar.google.com/scholar?q=Designing+adaptive+neural+networks+for+energy-constrained+image+classification" }
+            { label: "DOI", url: "https://doi.org/10.1016/j.energy.2021.121501" }
         ]
     }
 ];
